@@ -1,0 +1,10 @@
+{
+  "Id": "CreatureSelect",
+  "DisplayName": "Play as Creature",
+  "Author": "Veylon",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.13.0",
+  "Requirements": [],
+  "AssemblyName": "CreatureSelect.dll",
+  "EntryMethod": "CreatureSelect.Main.Load"
+}
